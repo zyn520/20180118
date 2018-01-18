@@ -1,0 +1,4 @@
+2018_01_12 Friday 14:05:53 log1.py : DEBUG debug
+2018_01_12 Friday 14:05:53 log1.py : INFO info
+2018_01_12 Friday 14:05:53 log1.py : WARNING warning
+2018_01_12 Friday 14:05:53 log1.py : ERROR error
