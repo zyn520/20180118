@@ -12,4 +12,9 @@ class mySql():
         self.curser.close()
         self.con.close()
 
+if __name__ == '__main__':
+    a=mySql()
+    sql='insert into zfy_device values(2,"asff","000123456789","1","mysql","","1","5/24/2017","0","3","5","0","2018-01-18 17:25:31","1029","admin","0","105","105")'
+    a.exe_sql(sql)
+    a.close_con()
 
